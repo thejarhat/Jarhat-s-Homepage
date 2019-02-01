@@ -1,0 +1,17 @@
+
+body {
+
+	text-align: center;
+ 	background-color: #d9d9d9;
+}
+h2{
+	font-family: "Lucida Console";
+}
+th{
+	color: white;
+	border-style: none;
+	background-color: rgb(37, 40, 40);
+	padding: 5px;
+	font-family: "arial";
+	text-transform: uppercase;
+}
